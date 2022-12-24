@@ -87,7 +87,7 @@ p {
 }
 
 /* Reduce the amount of times these classes repeat themselves */
-.benefit-lead {
+.benefit-format {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -103,7 +103,7 @@ p {
 }
 
 /* Reduce the amount of times these classes repeat themselves */
-.benefit-lead h3 {
+.benefit-format h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -119,7 +119,7 @@ p {
 }
 
 /* Reduce the amount of times these classes repeat themselves */
-.benefit-lead img {
+.benefit-format img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
