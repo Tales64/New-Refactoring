@@ -9,5 +9,6 @@ The following image shows the web application's appearance and functionality:
 this is the file to compare to.
 
 
+![127 0 0 1_5500_Develop_index2 html (2)](https://user-images.githubusercontent.com/113705249/209425602-b31802cd-58bb-442b-b122-f0532c7648d7.png)
 
-![127 0 0 1_5500_Develop_index2 html](https://user-images.githubusercontent.com/113705249/209425366-a733575f-1e4c-445f-8a77-9975f9b2b124.png)
+
